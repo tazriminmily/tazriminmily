@@ -1,21 +1,24 @@
 # 😊 Hi there! I'm **Tazrimin Rahman Mily**
 
-I'm a curious and passionate software developer who loves bringing ideas to life with clean code, thoughtful architecture, and a touch of creativity. With over **4 years of professional experience** in the .NET ecosystem, I’ve had the pleasure of building applications that solve real-world problems — from designing secure, scalable APIs to delivering dynamic frontends and deploying cloud-native solutions.
+I'm a software developer who finds joy in turning ideas into real, working software. I’ve spent the last more than 4 years in the .NET world, where I’ve helped design and build systems that do more than just function — they make a difference. Whether it’s shaping the backend of a feature-rich application or bringing clarity to frontend behavior, I enjoy the mix of logic and creativity that comes with every new challenge.
 
-I thrive on learning, adapting, and pushing my boundaries. Whether it's backend logic, frontend design, or cloud engineering — I find joy in connecting all the dots that turn ideas into impactful products.
+What drew me to tech is the thrill of solving problems. I’m naturally curious, and I love understanding how things work — especially when I can build or improve them. Writing clean, thoughtful code is my way of shaping solutions that are as reliable as they are maintainable.
 
 ---
 
 ## 💼 Professional Experience
 
-Over the years, I've contributed to a range of impactful, enterprise-level projects, including:
+Here’s a closer look at the types of systems I’ve been part of and the problems I’ve helped solve:
 
-* **ERP Systems**: Focused on modules like **Human Resource Management (HRM)**, **Supply Chain Management (SCM)**, and **Payroll**, helping businesses streamline operations and improve efficiency.
-* **Banking Systems**: Worked on secure financial applications involving **account management**, **transaction handling**, and **data synchronization** using platforms like the **Plaid API**. Also managed real-time updates with **webhooks** to ensure data integrity.
-* **Workflow Systems**: Designed and implemented workflow automation solutions that increased productivity and reduced manual effort by structuring and standardizing business processes.
-* **Accounting Integrations**: Integrated with services like **QuickBooks** for handling **invoices**, **vouchers**, **financial statements**, and **transaction history**, enabling seamless and compliant financial management within enterprise applications.
+* **ERP Systems**: I’ve had the chance to work deeply on core ERP modules like **Human Resource Management (HRM)**, **Supply Chain Management (SCM)**, and **Payroll**. These weren’t just about input screens and reports — I worked on systems that directly improved how teams hired, managed inventories, and ran payroll efficiently.
 
-These experiences have given me a deeper understanding of enterprise architecture, domain-driven design, and the critical role software plays in business operations.
+* **Banking Systems**: My role in financial software included features like **account management**, **transaction processing**, and **real-time data updates** using APIs such as **Plaid**. I’ve also developed and maintained **webhook** solutions to ensure seamless communication between financial services in real-time.
+
+* **Workflow Automation**: One of my favorite areas — designing automated workflows for approvals, data flows, and task handoffs. It’s amazing how much time and effort you can save by replacing manual steps with well-thought-out automation.
+
+* **Accounting & Finance Integrations**: I’ve built integrations with **QuickBooks** and internal systems to handle everything from **invoices**, **vouchers**, and **transactions** to **statements**. This work helped clients maintain accuracy and gain visibility over their financial activities.
+
+Each project has pushed me to think critically, understand user pain points, and build solutions that feel intuitive and dependable.
 
 ---
 
@@ -23,94 +26,73 @@ These experiences have given me a deeper understanding of enterprise architectur
 
 ### 💻 Languages
 
-I feel right at home writing in:
-
-* **C#** – My go-to for backend development and building APIs with ASP.NET Core
-* **JavaScript** – For adding interactivity and structure to web apps, primarily with Angular
-* **SQL** – For crafting powerful queries and designing relational data models
+* **C#** – My core language for backend systems.
+* **JavaScript** – Especially useful when crafting frontend interactions.
+* **SQL** – For handling data queries, modeling, and performance tuning.
 
 ### ⚙️ Frameworks & Libraries
 
-Tools I use to turn code into cohesive, performant applications:
-
-* **ASP.NET Core** – For robust, scalable APIs and full-stack web development
-* **Entity Framework Core** – For efficient data access and code-first database management
-* **Angular** – For building responsive, user-friendly frontends
+* **ASP.NET Core** – For scalable web apps and APIs.
+* **Entity Framework Core** – My go-to for working with relational data.
+* **Angular** – For building responsive, component-based frontends.
 
 ### ☁️ Cloud & Infrastructure
 
-I’m fascinated by the cloud and the possibilities it unlocks:
-
-* **Microsoft Azure** – My current favorite for deploying services, serverless apps, and storage solutions
-* **AWS** – Where I’m building deeper knowledge around services like Lambda and S3
-* **Docker** – For containerizing applications and ensuring consistency across environments
+* **Microsoft Azure** – Comfortable deploying and scaling services here.
+* **AWS** – Gaining hands-on experience with Lambda and other services.
+* **Docker** – Love using it for consistent dev and deployment workflows.
 
 ### 📊 Databases
 
-I enjoy working with:
-
-* **SQL Server** – For most of my enterprise-level projects
-* **PostgreSQL** – For open-source and cloud-based systems
-* **Oracle** – Gaining hands-on experience with larger, enterprise data environments
+* **SQL Server** – Most of my experience is here.
+* **PostgreSQL** – Light, fast, and great for cloud-native apps.
+* **Oracle** – Worked with this in larger enterprise environments.
 
 ### 🛠️ Tools I Use Regularly
 
-* **Visual Studio** – My trusted IDE for all things .NET
-* **Git** – For version control and collaborating efficiently
-* **Docker** – To simplify deployment and testing
-* **VS Code** – For quick edits, scripting, and cross-platform projects
+* **Visual Studio & VS Code** – My primary dev environments.
+* **Git** – For collaboration and version control.
+* **Docker** – Always helpful for isolating and testing environments.
 
 ---
 
 ## 🚀 What I’m Up To
 
-Here’s a snapshot of what I’ve been focused on lately:
+Lately, I’ve been focused on:
 
-* **🔗 Designing APIs:**
-  Building secure, modular, and scalable APIs is something I’m passionate about. I carefully consider architecture, data flow, and performance when designing backend services.
-
-* **🔒 Security First:**
-  I strongly believe that good security should be baked in from the start. I implement industry-standard practices using JWT tokens, API keys, IP whitelisting, domain-level restrictions, and **IdentityServer** to ensure applications are protected without compromising usability.
-
-* **🌍 Speaking Many Languages:**
-  I build applications that speak to users around the globe. By localizing APIs and user interfaces, I ensure accessibility and usability for diverse audiences — tech that connects people regardless of language or location.
+* **🔗 Designing APIs** – I take pride in crafting APIs that are clean, well-documented, and built to scale.
+* **🔒 Security by Design** – From token-based auth (JWT) to full IdentityServer implementations, security is always a priority.
+* **🌍 Localization** – Making applications accessible to a global user base through localization and internationalization.
 
 ---
 
 ## 📚 What I’m Learning
 
-As a lifelong learner, I'm always working on growing both my technical and theoretical knowledge. Right now, I'm focused on:
+Because tech never stops evolving, I’m continuously learning:
 
-* **🏗️ System Design:**
-  I’m diving deep into scalable architecture like clean code principles, onion architecture, microservices, and distributed systems. I love studying how large systems are designed to be fault-tolerant, loosely coupled, and resilient.
-
-* **☁️ Cloud Development:**
-  Cloud-native development is a key area of growth for me. I’m exploring serverless architecture, CI/CD pipelines, and best practices for deploying resilient, globally available apps with Azure and AWS.
-
-* **🎓 PhD Aspirations:**
-  Alongside my professional journey, I’m also exploring research opportunities in **software engineering** — with an eye on **PhD programs in Germany or other countries**. I'm particularly interested in bridging the gap between academic research and practical development challenges in cloud architecture and system design.
+* **🏗️ System Design** – Microservices, message queues, fault tolerance — it’s about designing for the future.
+* **☁️ Cloud Development** – Deep diving into cloud-native approaches with Azure and AWS.
+* **🎓 PhD Goals** – I’m exploring software engineering research topics, especially around distributed systems, with a goal to pursue a **PhD in Germany**.
 
 ---
 
-## 💡 Fun Fact & Background
+## 💡 A Bit of Backstory
 
-I didn’t start in software — my academic journey began with a **Master’s degree in Pure Physics**. I’ve always been fascinated by how things work, and physics gave me a rigorous, analytical way of thinking. But it was my curiosity about technology and the joy I found in building things that led me to software development.
+My academic journey began in **Pure Physics** — drawn by curiosity about how the universe works. Over time, that curiosity turned toward how software systems work, and I made the transition into tech. It’s been one of the most rewarding decisions of my life.
 
-Since then, I’ve never looked back.
-
-What I love most about tech is that every day presents a new opportunity to learn something, solve a problem, or create something meaningful. Whether I’m writing an API, optimizing a query, or learning about a new Azure service, it always feels like an adventure.
+Every project I take on is a chance to learn something new and deliver something valuable. Whether it's smoothing out an API response or building a feature from scratch, I enjoy the details as much as the big picture.
 
 ---
 
 ## 💬 Let’s Connect!
 
-I’m always open to connecting with like-minded developers, cloud enthusiasts, researchers, or anyone who loves to build, learn, and share ideas.
+Always happy to chat about tech, research, or interesting problems you’re working on. If you’d like to connect:
 
 * **🔗 LinkedIn:** [Tazrimin Rahman Mily](https://www.linkedin.com/in/tazrimin-mily-94074b1b9/)
 * **📧 Email:** tazrimintaz1@gmail.com
 
-Feel free to reach out — whether it’s to chat tech, brainstorm ideas, or explore collaboration opportunities.
+Thanks again for stopping by — looking forward to connecting!
 
 ---
 
-**Thanks for visiting!** 😊
+**Stay curious, keep building.** 😊
