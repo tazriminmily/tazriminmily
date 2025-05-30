@@ -2,7 +2,20 @@
 
 I'm a curious and passionate software developer who loves bringing ideas to life with clean code, thoughtful architecture, and a touch of creativity. With over **4 years of professional experience** in the .NET ecosystem, I’ve had the pleasure of building applications that solve real-world problems — from designing secure, scalable APIs to delivering dynamic frontends and deploying cloud-native solutions.
 
-I thrive on learning, adapting, and pushing my boundaries. Whether it's backend logic, frontend design, or cloud engineering — I find joy in connecting all the dots that turn ideas into impactful products. I’ve also worked with **bank synchronization systems**, integrating financial data using the **Plaid API** and managing **webhook-driven data updates** to ensure secure and seamless connectivity.
+I thrive on learning, adapting, and pushing my boundaries. Whether it's backend logic, frontend design, or cloud engineering — I find joy in connecting all the dots that turn ideas into impactful products.
+
+---
+
+## 💼 Professional Experience
+
+Over the years, I've contributed to a range of impactful, enterprise-level projects, including:
+
+* **ERP Systems**: Focused on modules like **Human Resource Management (HRM)**, **Supply Chain Management (SCM)**, and **Payroll**, helping businesses streamline operations and improve efficiency.
+* **Banking Systems**: Worked on secure financial applications involving **account management**, **transaction handling**, and **data synchronization** using platforms like the **Plaid API**. Also managed real-time updates with **webhooks** to ensure data integrity.
+* **Workflow Systems**: Designed and implemented workflow automation solutions that increased productivity and reduced manual effort by structuring and standardizing business processes.
+* **Accounting Integrations**: Integrated with services like **QuickBooks** for handling **invoices**, **vouchers**, **financial statements**, and **transaction history**, enabling seamless and compliant financial management within enterprise applications.
+
+These experiences have given me a deeper understanding of enterprise architecture, domain-driven design, and the critical role software plays in business operations.
 
 ---
 
@@ -93,7 +106,7 @@ What I love most about tech is that every day presents a new opportunity to lear
 
 I’m always open to connecting with like-minded developers, cloud enthusiasts, researchers, or anyone who loves to build, learn, and share ideas.
 
-* **🔗 LinkedIn:**  [Tazrimin Rahman Mily](https://www.linkedin.com/in/tazrimin-mily-94074b1b9/)
+* **🔗 LinkedIn:** [Tazrimin Rahman Mily](https://www.linkedin.com/in/tazrimin-mily-94074b1b9/)
 * **📧 Email:** tazrimintaz1@gmail.com
 
 Feel free to reach out — whether it’s to chat tech, brainstorm ideas, or explore collaboration opportunities.
