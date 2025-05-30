@@ -1,74 +1,103 @@
-# 👋 Hi, I’m Tazrimin Rahman Mily
+# 😊 Hi there! I'm **Tazrimin Rahman Mily**
 
-Welcome to my GitHub! I’m a passionate software developer with a strong foundation in physics and over 4 years of hands-on experience in building modern, secure, and scalable web applications. My journey into software began with curiosity and evolved into a deep love for technology, architecture, and creating impactful solutions.
+I'm a curious and passionate software developer who loves bringing ideas to life with clean code, thoughtful architecture, and a touch of creativity. With over **4 years of professional experience** in the .NET ecosystem, I’ve had the pleasure of building applications that solve real-world problems — from designing secure, scalable APIs to delivering dynamic frontends and deploying cloud-native solutions.
 
----
-
-## 💼 Professional Summary
-
-With a focus on backend development and cloud-based systems, I’ve spent the last few years crafting reliable, efficient, and user-focused software using the .NET ecosystem. Whether it’s architecting RESTful APIs, implementing secure authentication flows, or building responsive frontends with Angular, I enjoy working across the full stack to bring ideas to life.
-
-What drives me is the challenge of solving real-world problems with clean code, thoughtful design, and scalable architecture. I'm also passionate about improving the developer experience through automation, good practices, and continuous learning.
+I thrive on learning, adapting, and pushing my boundaries. Whether it's backend logic, frontend design, or cloud engineering — I find joy in connecting all the dots that turn ideas into impactful products. I’ve also worked with **bank synchronization systems**, integrating financial data using the **Plaid API** and managing **webhook-driven data updates** to ensure secure and seamless connectivity.
 
 ---
 
-## 🧰 Technologies I Work With
+## 🔧 Tech I Enjoy Working With
 
 ### 💻 Languages
-- C# – My primary language for backend and API development  
-- JavaScript – For dynamic frontend applications  
-- SQL – Designing and optimizing database queries
+
+I feel right at home writing in:
+
+* **C#** – My go-to for backend development and building APIs with ASP.NET Core
+* **JavaScript** – For adding interactivity and structure to web apps, primarily with Angular
+* **SQL** – For crafting powerful queries and designing relational data models
 
 ### ⚙️ Frameworks & Libraries
-- ASP.NET Core – For building robust APIs and web applications  
-- Entity Framework Core – ORM for effective data management  
-- Angular – For interactive frontend user interfaces
 
-### ☁️ Cloud & DevOps
-- Azure & AWS – Deploying and managing scalable cloud-native solutions  
-- Docker – Containerizing apps for consistent development and deployment  
-- Git – Version control and collaborative workflows
+Tools I use to turn code into cohesive, performant applications:
 
-### 🗄️ Databases
-- SQL Server  
-- PostgreSQL
+* **ASP.NET Core** – For robust, scalable APIs and full-stack web development
+* **Entity Framework Core** – For efficient data access and code-first database management
+* **Angular** – For building responsive, user-friendly frontends
 
----
+### ☁️ Cloud & Infrastructure
 
-## 🚀 What I’m Currently Working On
+I’m fascinated by the cloud and the possibilities it unlocks:
 
-- Designing and building **RESTful APIs** with best practices around scalability, versioning, and security  
-- Implementing **secure authentication and authorization** using JWT, API keys, and IdentityServer  
-- Developing **localized API platforms** that can adapt to multilingual audiences  
-- Exploring **event-driven microservices** and distributed systems  
-- Enhancing cloud skills with **Azure Functions**, **App Services**, and **serverless architecture**
+* **Microsoft Azure** – My current favorite for deploying services, serverless apps, and storage solutions
+* **AWS** – Where I’m building deeper knowledge around services like Lambda and S3
+* **Docker** – For containerizing applications and ensuring consistency across environments
 
----
+### 📊 Databases
 
-## 🎯 Goals & Learning Journey
+I enjoy working with:
 
-### 📘 Deepening Knowledge In:
-- **System Design** – High availability, load balancing, and microservices  
-- **Cloud-Native Development** – Leveraging cloud tools to build resilient, auto-scaling apps  
-- **Software Engineering Research** – Preparing for a PhD in Germany, focused on real-world applications of architecture, cloud infrastructure, or development methodologies
+* **SQL Server** – For most of my enterprise-level projects
+* **PostgreSQL** – For open-source and cloud-based systems
+* **Oracle** – Gaining hands-on experience with larger, enterprise data environments
 
-I actively participate in architectural discussions, design reviews, and contribute to technical documentation to ensure long-term maintainability and clarity for teams.
+### 🛠️ Tools I Use Regularly
+
+* **Visual Studio** – My trusted IDE for all things .NET
+* **Git** – For version control and collaborating efficiently
+* **Docker** – To simplify deployment and testing
+* **VS Code** – For quick edits, scripting, and cross-platform projects
 
 ---
 
-## 🧬 A Bit About My Background
+## 🚀 What I’m Up To
 
-My path into tech started from the world of science. I hold a **Master’s degree in Pure Physics**, which taught me how to approach complex problems logically and creatively. That same mindset now fuels my work in software development — where physics met code, and passion became profession.
+Here’s a snapshot of what I’ve been focused on lately:
+
+* **🔗 Designing APIs:**
+  Building secure, modular, and scalable APIs is something I’m passionate about. I carefully consider architecture, data flow, and performance when designing backend services.
+
+* **🔒 Security First:**
+  I strongly believe that good security should be baked in from the start. I implement industry-standard practices using JWT tokens, API keys, IP whitelisting, domain-level restrictions, and **IdentityServer** to ensure applications are protected without compromising usability.
+
+* **🌍 Speaking Many Languages:**
+  I build applications that speak to users around the globe. By localizing APIs and user interfaces, I ensure accessibility and usability for diverse audiences — tech that connects people regardless of language or location.
+
+---
+
+## 📚 What I’m Learning
+
+As a lifelong learner, I'm always working on growing both my technical and theoretical knowledge. Right now, I'm focused on:
+
+* **🏗️ System Design:**
+  I’m diving deep into scalable architecture like clean code principles, onion architecture, microservices, and distributed systems. I love studying how large systems are designed to be fault-tolerant, loosely coupled, and resilient.
+
+* **☁️ Cloud Development:**
+  Cloud-native development is a key area of growth for me. I’m exploring serverless architecture, CI/CD pipelines, and best practices for deploying resilient, globally available apps with Azure and AWS.
+
+* **🎓 PhD Aspirations:**
+  Alongside my professional journey, I’m also exploring research opportunities in **software engineering** — with an eye on **PhD programs in Germany or other countries**. I'm particularly interested in bridging the gap between academic research and practical development challenges in cloud architecture and system design.
+
+---
+
+## 💡 Fun Fact & Background
+
+I didn’t start in software — my academic journey began with a **Master’s degree in Pure Physics**. I’ve always been fascinated by how things work, and physics gave me a rigorous, analytical way of thinking. But it was my curiosity about technology and the joy I found in building things that led me to software development.
+
+Since then, I’ve never looked back.
+
+What I love most about tech is that every day presents a new opportunity to learn something, solve a problem, or create something meaningful. Whether I’m writing an API, optimizing a query, or learning about a new Azure service, it always feels like an adventure.
 
 ---
 
 ## 💬 Let’s Connect!
 
-I’m always open to connecting with fellow developers, mentors, and researchers. Whether it's to talk tech, share ideas, or collaborate on projects, feel free to reach out!
+I’m always open to connecting with like-minded developers, cloud enthusiasts, researchers, or anyone who loves to build, learn, and share ideas.
 
-- **LinkedIn:**[Tazrimin Rahman Mily](https://www.linkedin.com/in/tazrimin-mily-94074b1b9/)
-- **Email:** tazrimintaz1@gmail.com
+* **🔗 LinkedIn:**  [Tazrimin Rahman Mily](https://www.linkedin.com/in/tazrimin-mily-94074b1b9/)
+* **📧 Email:** tazrimintaz1@gmail.com
+
+Feel free to reach out — whether it’s to chat tech, brainstorm ideas, or explore collaboration opportunities.
 
 ---
 
-Thanks for stopping by — and feel free to check out some of my projects below! 🚀
+**Thanks for visiting!** 😊
